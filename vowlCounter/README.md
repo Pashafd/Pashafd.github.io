@@ -1,3 +1,3 @@
-# Pashafd.github.io
+# Pashafd.github.io/vowlCounter
 
 #VowelCounter app
