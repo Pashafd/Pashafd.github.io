@@ -1,1 +1,1 @@
-#Video Player with vanola Javascript
+#Video Player with vanila Javascript
