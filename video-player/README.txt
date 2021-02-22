@@ -4,6 +4,11 @@
 ## Installing / Getting started
 
 ```shell
+git clone https://github.com/your/awesome-project.git
+cd awesome-project/
+packagemanager install
+```
+
 git clone https://github.com/Pashafd/Pashafd.github.io/edit/main/video-player
 cd /video-player
 yarn add / npm install
@@ -12,7 +17,7 @@ yarn add / npm install
     yarn/npm (for develop) start (or add styles and js file directly to src/template.html)
     yarn/npm build (for prod)
     yarn/npm (so you can see the uncompressed compiled assembly with source map)
-```
+
 
 ## Contributing
 
