@@ -3,11 +3,6 @@
 
 ## Installing / Getting started
 
-```shell
-git clone https://github.com/your/awesome-project.git
-cd awesome-project/
-packagemanager install
-```
 
 git clone https://github.com/Pashafd/Pashafd.github.io/edit/main/video-player
 cd /video-player
